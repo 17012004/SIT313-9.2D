@@ -1,0 +1,13 @@
+.welcome-container {
+    background-color: #3498db;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    transition: background-color 0.3s ease; /* Add transition for smooth color change */
+  }
+  
+  .welcome-container:hover {
+    background-color: #2980b9; /* Change background color on hover */
+    cursor: pointer; /* Show pointer cursor on hover */
+  }
+  
